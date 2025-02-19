@@ -1,0 +1,26 @@
+li {
+    list-style: none;
+    padding: 17px;
+    width: 10%;
+    font-size: 20px;
+}
+i{
+    align-self: center;
+    padding: 10px;
+}
+a {
+    display: flex;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    background-color: #d6d6d6;
+    border-radius: 10px;
+}
+a:focus{
+    background-color: #bbbbbb;
+    border-radius: 10px;
+}
+body{
+    font-family: Sigmar;
+}
